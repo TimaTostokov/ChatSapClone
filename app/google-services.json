@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201616547140",
+    "project_id": "chatmessenger-53519",
+    "storage_bucket": "chatmessenger-53519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201616547140:android:537f64810badae8c8c8b11",
+        "android_client_info": {
+          "package_name": "jolchu.tolik.whatsapclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjsvr08Ntk_uvpkza5HeuAcB6Ii-Prbkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
